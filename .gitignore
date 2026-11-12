@@ -1,0 +1,11 @@
+__pycache__/
+node_modules/
+dist/
+*.py[cod]
+*.tsbuildinfo
+avarias.db
+avarias.db-*
+avarias.secret
+identity.db
+identity.secret
+tenant-data/
