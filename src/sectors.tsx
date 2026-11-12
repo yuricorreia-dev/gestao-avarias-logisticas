@@ -5,6 +5,7 @@ import {
   Pie, PieChart, ResponsiveContainer, Tooltip, XAxis, YAxis,
 } from 'recharts';
 import { ArrowLeft, ArrowUpRight, ChevronDown, Download, Plus, SlidersHorizontal } from 'lucide-react';
+// @ts-ignore CSS is loaded by the bundler and has no TypeScript module declaration.
 import './sectors.css';
 
 type Allocation = {
